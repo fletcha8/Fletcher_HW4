@@ -1,0 +1,5 @@
+What was added:
+
+1. An object that spawns between three random points that is able to be picked up (collision based)
+2. The ability for the character to sprint using SHIFT
+3. an AI that begins to follow the character when within view.
